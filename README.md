@@ -41,4 +41,10 @@ README.md # This file
 1. Clone the repo:  
    ```bash
    git clone https://github.com/Ahmed010622/Sql_DataWarehouse_Project.git
+2. Load the CSV files from /datasets/ into the Bronze tables (raw tables).
+3. Run the SQL scripts in /scripts/ to transform data through Silver then Gold layers.
+
+4. Explore the resulting views (dimensions and facts).
+
+5. Use these views in your BI tool or SQL queries for analytics and reporting.
 
